@@ -1,0 +1,16 @@
+/* Write your CSS here */
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.div {
+  width: 50vw;
+  padding: 10px;
+}
+.events {
+  width: 50vw;
+  background-color: #323f4b;
+}
+.bol {
+  display: flex;
+}

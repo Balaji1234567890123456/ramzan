@@ -1,0 +1,9 @@
+/* Write your CSS here */
+div {
+  display: flex;
+  flex-direction: column;
+}
+.img {
+  height: 100px;
+  width: 200px;
+}
